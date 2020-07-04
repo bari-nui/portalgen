@@ -8,8 +8,12 @@ http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/4780
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/27225
 #EXTINF:-1,Match! RU
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/4772
-#EXTINF:-1,КАРУСЕЛЬ RU
-http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/27189
+#EXTINF:-1,CCTV-5
+http://182.136.251.129:9981/stream/channelid/1858536440
+#EXTINF:-1,CCTV-5 高清
+http://182.136.251.129:9981/stream/channelid/1411661722
+#EXTINF:-1,CCTV-5+高清
+http://182.136.251.129:9981/stream/channelid/1644271143 RU
 #EXTINF:-1,Eurosport 1 FHD VIP UK
 http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/10868
 #EXTINF:-1,Eurosport 1 HD UK
